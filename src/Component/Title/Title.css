@@ -1,0 +1,26 @@
+:root{
+    --black: rgb(46, 44, 44);
+    --font:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title{
+    width: 100%;
+
+}
+.title p{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    color:var(--black);
+    font-family: var(--font);
+
+}
+.title h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    color: var(--black);
+    text-transform: uppercase;
+    font-weight: 888;
+    font-family:var(--font);
+}
